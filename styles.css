@@ -10,5 +10,38 @@ h1 {
 
 h3 {
     font-size: 20px;
-    background-color: #
+    background-color: #a0a3af;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
 }
+
+body {
+    background-color: #03050f;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+.image-container {
+    margin: auto;
+    padding: 30px;
+    background-color: #002;
+}
+
+.programming-image {
+    object-fit: contain;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+/*great +2349150973259 on whatsapp*/
+/*i think this is done tho*/
+
+/* ok*/
